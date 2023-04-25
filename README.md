@@ -36,4 +36,3 @@ Start VPN Client:
 ```
 ## Authors
 - [@abdoxfox](https://github.com/abdoxfox)
-- [@akilaid](https://github.com/akilaid/)
