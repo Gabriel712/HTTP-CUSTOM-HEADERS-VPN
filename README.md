@@ -24,7 +24,7 @@ systemctl disable redsocks
 Add your server seetings, custom payload and proxy (if required):
 ```bash
 cd HTTP-CUSTOM-HEADERS-VPN
-nano seetings.ini
+nano settings.ini
 ```
 Make it executable:
 ```bash
